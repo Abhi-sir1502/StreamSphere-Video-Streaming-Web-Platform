@@ -20,7 +20,8 @@
 ---
 
 ## Project ScreenShot
-![StreamSphere-video-streaming-platform](images/ERModel.jpeg)
+![ERModel](https://github.com/user-attachments/assets/f987e35f-7a57-4129-8dc6-c9cb70e7c78a)
+
 
 
 ## - Dataset
