@@ -20,7 +20,7 @@
 ---
 
 ## Project ScreenShot
-![StreamSphere-video-streaming-platform](images\ERModel.jpeg)
+![StreamSphere-video-streaming-platform](images/ERModel.jpeg)
 
 
 ## - Dataset
