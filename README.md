@@ -1,4 +1,4 @@
-<img width="1353" height="640" alt="Home Page" src="https://github.com/user-attachments/assets/4cbd5f43-14a3-45db-83c7-1b212164a600" /># streamSphere – Video Streaming Web Platform
+
 
 ## - Brief-One-Line-Summary
 - A web-based video streaming platform that allows users to upload, watch, and manage videos similar to YouTube.
@@ -14,6 +14,15 @@
 
 ## Home Page
 <img width="1353" height="640" alt="Home Page" src="https://github.com/user-attachments/assets/d9666d77-b332-4f68-bf5e-55f3a10c4a69" />
+
+## Pulse 
+<img width="1353" height="628" alt="Pulse" src="https://github.com/user-attachments/assets/cafc273a-aba2-4bac-b5bd-b0dea44c175b" />
+
+## Subscriptions
+<img width="1342" height="625" alt="Subscriptions" src="https://github.com/user-attachments/assets/991f75a3-cf39-44e2-af67-7866a4124acd" />
+
+## Profile
+<img width="274" height="389" alt="Profile" src="https://github.com/user-attachments/assets/f5bd78f7-da40-46ee-bfec-be1ff7596600" />
 
 
 ## - Problem-Statement
