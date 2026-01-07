@@ -13,10 +13,16 @@
 ---
 
 ## Home Page
-<img width="1353" height="640" alt="Home Page" src="https://github.com/user-attachments/assets/d9666d77-b332-4f68-bf5e-55f3a10c4a69" />
+<img width="1359" height="636" alt="Home Page" src="https://github.com/user-attachments/assets/74828fb7-1e45-4c86-be89-bed9a5a9959b" />
 
-## Pulse 
+## Watch Pulse 
 <img width="1353" height="628" alt="Pulse" src="https://github.com/user-attachments/assets/cafc273a-aba2-4bac-b5bd-b0dea44c175b" />
+
+## My Library
+<img width="1347" height="635" alt="My Library" src="https://github.com/user-attachments/assets/481d318c-9213-42a0-9175-796ec6bb5a38" />
+
+## Creator Radar
+<img width="1345" height="631" alt="Creator Radar" src="https://github.com/user-attachments/assets/f8165d56-ae82-4dc3-b0e6-7599500363a4" />
 
 ## Subscriptions
 <img width="1342" height="625" alt="Subscriptions" src="https://github.com/user-attachments/assets/991f75a3-cf39-44e2-af67-7866a4124acd" />
@@ -24,6 +30,8 @@
 ## Profile
 <img width="274" height="389" alt="Profile" src="https://github.com/user-attachments/assets/f5bd78f7-da40-46ee-bfec-be1ff7596600" />
 
+## Watch Later
+<img width="1349" height="629" alt="Watch Later" src="https://github.com/user-attachments/assets/2960fbbb-0429-4e59-ae2f-c5d655a8e2d0" />
 
 ## - Problem-Statement
 - Building and understanding large-scale video streaming platforms like YouTube is complex.
