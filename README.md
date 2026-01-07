@@ -6,11 +6,15 @@
 ---
 
 ## - Overview
-- PlayNexa is a YouTube-like video streaming web application developed for academic and learning purposes.
+- Streamsphere is a YouTube-like video streaming web application developed for academic and learning purposes.
 - The project focuses on understanding how real-world video platforms handle video uploads, streaming, and content management.
 - It demonstrates full-stack development using frontend, backend, and database integration.
 
 ---
+
+## Home Page
+![Uploading Home Page.png…]()
+
 
 ## - Problem-Statement
 - Building and understanding large-scale video streaming platforms like YouTube is complex.
@@ -19,7 +23,7 @@
 
 ---
 
-## Project ScreenShot
+## ER Model
 ![ERModel](https://github.com/user-attachments/assets/f987e35f-7a57-4129-8dc6-c9cb70e7c78a)
 
 
