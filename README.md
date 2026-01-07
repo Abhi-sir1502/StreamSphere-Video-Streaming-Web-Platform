@@ -1,4 +1,4 @@
-# streamSphere – Video Streaming Web Platform
+<img width="1353" height="640" alt="Home Page" src="https://github.com/user-attachments/assets/4cbd5f43-14a3-45db-83c7-1b212164a600" /># streamSphere – Video Streaming Web Platform
 
 ## - Brief-One-Line-Summary
 - A web-based video streaming platform that allows users to upload, watch, and manage videos similar to YouTube.
@@ -13,8 +13,7 @@
 ---
 
 ## Home Page
-![Uploading Home Page.png…]()
-
+<img width="1353" height="640" alt="Home Page" src="https://github.com/user-attachments/assets/d9666d77-b332-4f68-bf5e-55f3a10c4a69" />
 
 
 ## - Problem-Statement
