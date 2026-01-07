@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* NAVBAR */
+img {
+  cursor: pointer;
+}
+
+.flex-div {
+   display: flex;
+    align-items: center;
+}
+
+nav {
+  padding: 10px 2%; 
+  justify-content: space-between;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.nav-right  img{
+width: 25px;
+margin-right: 25px;
+}
+
+.nav-right .user-icon {
+  width: 35px;
+  border-radius: 50%;
+  margin-right: 0;
+}
+
+.nav-left .menu-icon {
+  width: 22px;
+  margin-right: 25px;
+}
+
+.nav-left .logo {
+  width: 130px;
+}
+
+.nav-middle .mic-icon {
+  width: 16px;
+
+}
+
+.nav-middle .search-box {
+border: 1px solid #ccc;
+margin-right: 15px;
+padding: 8px 12px;
+border-radius: 25px;
+}
+
+
+.nav-middle .search-box input {
+width: 400px;
+border: 0;
+outline: 0;
+background: transparent;
+}
+
+.nav-middle .search-box img {
+  width: 15px;
+}
+
+/* PAGE */
+.explore-page {
+    margin-top: 10px;
+    padding: 20px 30px;
+    background: #f9f9f9;
+}
+
+.explore-page h2 {
+    margin-bottom: 0px;
+}
+
+/* TRENDING */
+.trending-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.trend-card {
+    background: #fff;
+    padding: 12px 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.trend-card:hover {
+    background: red;
+    color: white;
+}
+
+/* GRID */
+.explore-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.explore-card {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.explore-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.explore-card h4 {
+    margin: 10px 0 5px;
+}
+
+.explore-card p {
+    font-size: 13px;
+    color: #666;
+}
+
+/* SPOTLIGHT */
+.spotlight {
+    margin-top: 40px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.creator {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.creator img {
+    width: 55px;
+    border-radius: 50%;
+}
+
+.creator button {
+    margin-left: auto;
+    padding: 6px 14px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

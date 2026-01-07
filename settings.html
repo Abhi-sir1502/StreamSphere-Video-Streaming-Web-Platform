@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Settings</title>
+    <link rel="stylesheet" href="settings.css">
+</head>
+<body>
+
+<!-- ===== FIXED NAVBAR (SAME AS INDEX & SUBSCRIPTION) ===== -->
+<nav class="flex-div">
+<div class ="nav-left flex-div">
+<img src ="images/menu.png" class="menu-icon">
+<img src ="images/logo.png" class="logo">
+</div>
+<div class ="nav-middle flex-div">
+<div class ="search-box flex-div">
+<input type="text" placeholder="search">
+<img src="images/search.png">
+    </div>
+    <img src="images/voice-search.png" class="mic-icon">
+</div>
+<div class ="nav-right flex-div">
+     <img src ="images/upload.png">
+     <img src ="images/more.png">
+     <img src ="images/notification.png">
+     <img src ="images/image1.png" class="user-icon">
+</div>
+</nav>
+
+<!-- SETTINGS PAGE -->
+<div class="settings-page">
+
+    <h2>⚙ Settings</h2>
+
+    <!-- APPEARANCE -->
+    <div class="settings-card">
+        <h3>🎨 Appearance</h3>
+        <div class="row">
+            <span>Night Mode</span>
+            <label class="switch">
+                <input type="checkbox" id="darkMode">
+                <span class="slider"></span>
+            </label>
+        </div>
+        <p class="hint">Dark mode sirf click par on hoga</p>
+    </div>
+
+    <!-- NOTIFICATIONS -->
+    <div class="settings-card">
+        <h3>🔔 Notifications</h3>
+
+        <div class="row">
+            <span>New Video Alerts</span>
+            <input type="checkbox" checked>
+        </div>
+
+        <div class="row">
+            <span>Live Stream Alerts</span>
+            <input type="checkbox">
+        </div>
+
+        <div class="row">
+            <span>Comment Replies</span>
+            <input type="checkbox" checked>
+        </div>
+    </div>
+
+    <!-- PRIVACY -->
+    <div class="settings-card">
+        <h3>🔐 Privacy</h3>
+        <div class="row">
+            <span>History Save</span>
+            <input type="checkbox" checked>
+        </div>
+        <div class="row">
+            <span>Search Suggestions</span>
+            <input type="checkbox">
+        </div>
+    </div>
+
+    <!-- ACCOUNT -->
+    <div class="settings-card">
+        <h3>👤 Account</h3>
+        <button class="danger">Logout</button>
+    </div>
+
+</div>
+
+<script src="settings.js"></script>
+</body>
+</html>

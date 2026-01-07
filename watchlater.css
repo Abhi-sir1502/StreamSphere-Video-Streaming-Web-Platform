@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* ===== NAVBAR ===== */
+img {
+  cursor: pointer;
+}
+
+.flex-div {
+   display: flex;
+    align-items: center;
+}
+
+nav {
+  padding: 10px 2%; 
+  justify-content: space-between;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.nav-right  img{
+width: 25px;
+margin-right: 25px;
+}
+
+.nav-right .user-icon {
+  width: 35px;
+  border-radius: 50%;
+  margin-right: 0;
+}
+
+.nav-left .menu-icon {
+  width: 22px;
+  margin-right: 25px;
+}
+
+.nav-left .logo {
+  width: 130px;
+}
+
+.nav-middle .mic-icon {
+  width: 16px;
+
+}
+
+.nav-middle .search-box {
+border: 1px solid #ccc;
+margin-right: 15px;
+padding: 8px 12px;
+border-radius: 25px;
+}
+
+
+.nav-middle .search-box input {
+width: 400px;
+border: 0;
+outline: 0;
+background: transparent;
+}
+
+.nav-middle .search-box img {
+  width: 15px;
+}
+
+/* PAGE */
+.watchlater-page {
+    margin-top: 10px;
+    padding: 25px 30px;
+    background: #f9f9f9;
+}
+
+.watchlater-page h2 {
+    margin-bottom: 20px;
+}
+
+/* QUEUE */
+.queue-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.queue-card {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.queue-card img {
+    width: 160px;
+    border-radius: 8px;
+    margin-right: 15px;
+}
+
+.q-info h4 {
+    margin-bottom: 5px;
+}
+
+.q-info p {
+    font-size: 13px;
+    color: #666;
+}
+
+.queue-card button {
+    margin-left: auto;
+    padding: 8px 16px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.queue-card button:hover {
+    background: darkred;
+}
