@@ -19,6 +19,10 @@
 
 ---
 
+## Project ScreenShot
+![StreamSphere-video-streaming-platform](images\ERModel.jpeg)
+
+
 ## - Dataset
 - Type: User-uploaded video files
 - Metadata:
